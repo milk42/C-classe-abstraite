@@ -8,6 +8,10 @@ namespace ClasseAbstraite
 {
     public class Camion : Vehicule
     {
+        public Camion(string matricule, string annee, int prix) : base(matricule, annee, prix)
+        {
+        }
+
         public override void Accelerer()
         {
             Console.WriteLine("Je suis un camion et j'accelère doucement");
