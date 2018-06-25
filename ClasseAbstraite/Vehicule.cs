@@ -8,15 +8,15 @@ namespace ClasseAbstraite
 {
     public abstract class Vehicule
     {
-        private string matricule { get; set; }
-        private string annee { get; set; }
-        private int prix { get; set; }
+        public string Matricule { get; set; }
+        public string Annee { get; set; }
+        public int Prix { get; set; }
 
         public Vehicule(string matricule, string annee, int prix)
         {
-            matricule = matricule;
-            annee = annee;
-            prix = prix;
+            Matricule = matricule;
+            Annee = annee;
+            Prix = prix;
         }
 
         public abstract void Demarrer();
@@ -24,7 +24,7 @@ namespace ClasseAbstraite
 
         public override string ToString()
         {
-            return " Définition de ce véhicule : Matricule =  " + matricule + "; Année du modèle = " + annee + "; Prix = " + prix ;
+            return " Définition de ce véhicule : Matricule =  " + Matricule + "; Année du modèle = " + Annee + "; Prix = " + Prix ;
         }
     }
 }

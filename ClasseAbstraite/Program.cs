@@ -12,6 +12,8 @@ namespace ClasseAbstraite
         {
             Camion camion1 = new Camion("matricule1","2017", 25679);
             Voiture voiture1 = new Voiture("matricule2", "2016", 15679);
+            camion1.ToString();
+            voiture1.ToString();
         }
     }
 }

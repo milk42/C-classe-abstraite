@@ -1,1 +1,6 @@
 M:\Visual Studio 2015\Exo_Souleimane\ClasseAbstraite\ClasseAbstraite\bin\Debug\ClasseAbstraite.exe.config
+M:\Visual Studio 2015\Exo_Souleimane\ClasseAbstraite\ClasseAbstraite\bin\Debug\ClasseAbstraite.exe
+M:\Visual Studio 2015\Exo_Souleimane\ClasseAbstraite\ClasseAbstraite\bin\Debug\ClasseAbstraite.pdb
+M:\Visual Studio 2015\Exo_Souleimane\ClasseAbstraite\ClasseAbstraite\obj\Debug\ClasseAbstraite.csprojResolveAssemblyReference.cache
+M:\Visual Studio 2015\Exo_Souleimane\ClasseAbstraite\ClasseAbstraite\obj\Debug\ClasseAbstraite.exe
+M:\Visual Studio 2015\Exo_Souleimane\ClasseAbstraite\ClasseAbstraite\obj\Debug\ClasseAbstraite.pdb
